@@ -1,0 +1,43 @@
+.read_our_blog{
+	border: 1px solid #000;
+	
+}
+
+.blog_tex{
+	text-align: center;
+	border: 1px solid #000;
+}
+
+.blog_tex img{
+	display: block;
+	margin: auto ;
+}
+
+.blog_tex span{
+	font-size: 36px;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+.blog_tex p{
+	font-size: 16px;
+    margin-top: 10px;
+    padding: 0 300px;
+}
+
+.boxes_common{
+	width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.box{
+	width: 280px;
+	text-align: center;
+}
+
+.box img{
+	width: 100%;
+}
